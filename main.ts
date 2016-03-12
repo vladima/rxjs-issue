@@ -1,4 +1,4 @@
-import {Subject, BehaviorSubject} from "rxjs/rx";
+import {Subject, BehaviorSubject} from "rxjs/Rx";
 
 class Task {
   id:number;
